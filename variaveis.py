@@ -66,3 +66,11 @@ print(boolean_val)
 boolean_val = True
 boolean_str = str(boolean_val) # Converte o booleano True para uma string "True"
 print(boolean_str) # Saída: "True"
+
+#Atribuição múltipla de valores 
+a,b,c = 1,2,3
+print(a,b,c)
+
+#Atribuição do mesmo valor
+a = b = c = 75
+print(a, b, c)
