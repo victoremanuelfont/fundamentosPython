@@ -58,3 +58,7 @@ print("___________________")
 
 #Acessando o indice
 print(comandos_maquinas["maquina_A"].pop(0))
+print("___________________")
+
+print(comandos_maquinas)
+print(len(comandos_maquinas))
