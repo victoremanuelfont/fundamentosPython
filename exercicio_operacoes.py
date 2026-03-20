@@ -18,3 +18,6 @@ print(f"resultado = {expressao_condicional}")
 print("___________________")
 
 
+
+
+
