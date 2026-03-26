@@ -19,5 +19,5 @@ print("--------------------------------------")
 
 #Utilizando outra classe como modulo e utilizando a funcao
 from funcoes import exibir_nome
-print("--------------------------------------")
+
 
